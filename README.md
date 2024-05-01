@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@d_a_n_i_e_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@d_a_n_i_e_l" height="30" width="40" /></a>
-<a href="https://instagram.com/@dan_t164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dan_t164" height="30" width="40" /></a>
+<a href="https://codepen.io/d_a_n_i_e_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@d_a_n_i_e_l" height="30" width="40" /></a>
+<a href="https://instagram.com/dan_t164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dan_t164" height="30" width="40" /></a>
 <a href="https://m.youtube.com/channel/UCTxboWJ8RD-HmMidCm1QsMg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dancoder" height="30" width="40" /></a>
 </p>
 

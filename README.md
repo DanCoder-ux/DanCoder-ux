@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h4 align="center">Frontend developer from Ethiopia</h3>
+<h1 align="center">Hi, I'm Daniel</h1>
+<h4 align="center">Developer from Ethiopia</h3>
 <samp>
 - 🌱 I’m currently learning **Clang**
 

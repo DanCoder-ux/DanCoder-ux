@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel</h1>
 <h4 align="center">Developer from Ethiopia</h3>
 <samp>
-- 🌱 I’m currently learning **Clang**
+- 🌱 I’m currently learning **clang**
 
 - 💬 Ask me about **js, scss**
 

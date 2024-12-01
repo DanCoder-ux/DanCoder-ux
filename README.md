@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Daniel</h1>
 <h4 align="center">Developer from Ethiopia</h3>
 <samp>
-- 🌱 I’m currently learning **clang**
+- I’m currently learning **clang**
 
-- 💬 Ask me about **js, scss**
+- Ask me about **js, scss**
 
-- 📫 How to reach me **dtesfaye@gmail.com**
+- How to reach me **dtesfaye@gmail.com**
 
-- ⚡ Fun fact **I want to know every programming languages but...**
+- Fun fact **I want to know every programming languages but...**
 </samp>
 
 <h3 align="left">Connect with me</h3>

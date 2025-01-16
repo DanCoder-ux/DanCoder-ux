@@ -6,7 +6,7 @@
 
 - Ask me about **js, scss**
 
-- How to reach me **dtesfaye@gmail.com**
+- How to reach me **dtesfaye164@gmail.com**
 
 - Fun fact **I want to know every programming languages but...**
 

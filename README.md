@@ -4,7 +4,7 @@
 
 - I’m currently learning **clang**
 
-- Ask me about **js, scss**
+- Ask me about **js**
 
 - How to reach me **dtesfaye164@gmail.com**
 
